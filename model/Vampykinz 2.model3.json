@@ -1,26 +1,37 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "Vampykinz 2.moc3",
-		"Textures": [
-			"Vampykinz 2.8192/texture_00.png"
-		],
-		"Physics": "Vampykinz 2.physics3.json",
-		"DisplayInfo": "Vampykinz 2.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "Vampykinz 2.moc3",
+    "Textures": [
+      "Vampykinz 2.8192/texture_00.png"
+    ],
+    "Physics": "Vampykinz 2.physics3.json",
+    "DisplayInfo": "Vampykinz 2.cdi3.json",
+    "Expressions": [
+      { "Name": "Idle",  "File": "Idle.exp3.json"  },
+      { "Name": "Heart", "File": "Heart.exp3.json" },
+      { "Name": "Sleep", "File": "Sleep.exp3.json" },
+      { "Name": "Cry",   "File": "Cry.exp3.json"   }
+    ],
+    "Motions": {
+      "Wave": [
+        { "File": "Wave.motion3.json", "FadeInTime": 0.5, "FadeOutTime": 0.5 }
+      ],
+      "Idle": [
+        { "File": "Wave.motion3.json", "FadeInTime": 1.0, "FadeOutTime": 1.0 }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": ["ParamEyeLOpen", "ParamEyeROpen"]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": ["ParamMouthOpenY"]
+    }
+  ]
 }
