@@ -1,0 +1,437 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "==="
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "Physc HG R"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "Physc HG L"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "==="
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "Telinga X1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "Telinga X2"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup3",
+			"Name": "Telinga Y1"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup3",
+			"Name": "Telinga Y2"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup2",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "==="
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup4",
+			"Name": "==="
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup5",
+			"Name": "==="
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup6",
+			"Name": "Bulu X 1"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup6",
+			"Name": "Bulu X 2"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup6",
+			"Name": "Bulu Y 1"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup6",
+			"Name": "Bulu Y 2"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup6",
+			"Name": "==="
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup7",
+			"Name": "SAYAP 1"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup7",
+			"Name": "SAYAP 2"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup7",
+			"Name": "==="
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup9",
+			"Name": "HEART EKSPRESI"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup9",
+			"Name": "HEART"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup9",
+			"Name": "LOVE 1"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup9",
+			"Name": "LOVE 2"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup9",
+			"Name": "==="
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup8",
+			"Name": "POSE WAVE"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup8",
+			"Name": "Tangan Wave"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup8",
+			"Name": "E"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup10",
+			"Name": "POSE SLEEP"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup10",
+			"Name": "BANTAL"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup10",
+			"Name": "Z 1"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup10",
+			"Name": "Z 2"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup10",
+			"Name": "==="
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup11",
+			"Name": "POSE CRY"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup11",
+			"Name": "AIR MATA"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup11",
+			"Name": "AIR 1"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup11",
+			"Name": "AIR 2"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup11",
+			"Name": "MULUT"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup12",
+			"Name": "Sayap X 1"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup12",
+			"Name": "Sayap X 2"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup12",
+			"Name": "Sayap Y 1"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup12",
+			"Name": "Sayap Y 2"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup12",
+			"Name": "==="
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "==="
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "MATA"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "TELINGA"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "ANGLE"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "MULUT"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "BODY"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "BULU"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "SAYAP"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "HEART"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "WAVE"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "SLEEP"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "CRY"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "Sayap"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "Sleep"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Cry"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Wave"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Ceker"
+		},
+		{
+			"Id": "Part",
+			"Name": "Heart"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Telinga"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Mata C"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Mata O"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Hidung"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Mulut"
+		},
+		{
+			"Id": "Part22",
+			"Name": "Muka.psd"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Blas"
+		},
+		{
+			"Id": "Part13",
+			"Name": "HG"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Kepala"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Garis Kepala"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Kalung"
+		},
+		{
+			"Id": "Part16",
+			"Name": "Bulu"
+		},
+		{
+			"Id": "Part17",
+			"Name": "Tgn R Idle"
+		},
+		{
+			"Id": "Part18",
+			"Name": "Tgn L Idle"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Badan"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Sayap"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Ekor"
+		}
+	]
+}
