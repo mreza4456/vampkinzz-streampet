@@ -16,6 +16,9 @@
     "Motions": {
       "Wave": [
         { "File": "Wave.motion3.json", "FadeInTime": 0.5, "FadeOutTime": 0.5 }
+      ],
+      "Idle": [
+        { "File": "Idle.exp3.json", "FadeInTime": 1.0, "FadeOutTime": 1.0 }
       ]
     }
   },
